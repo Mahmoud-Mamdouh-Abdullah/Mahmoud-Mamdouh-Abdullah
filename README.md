@@ -13,8 +13,7 @@
 
 - 🏢 I'm a Software Engineer interested in FullStack Web Development using Node.js and React.js.
 - 🧠 I'm constantly learning and exploring new technologies to improve my skills.
-- 👩‍💻 I’m currently a Backend Developement Intern @Trufla Technology.
-- 🤔 I’m Seeking for a Job as a Software Engineer in a growth-oriented company where I can use my skills to the advantage of the company.
+- 👩‍💻 I’m currently a Junior Software Engineer at Asset Technology Group
 
 
 ## 🔗 Links
