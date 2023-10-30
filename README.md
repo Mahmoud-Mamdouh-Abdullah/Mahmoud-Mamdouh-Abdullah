@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🏢 I'm a Software Engineer interested in FullStack Web Development using Node.js and React.js.
+- 🏢 I'm a Software Engineer interested in FullStack Web Development using Node.js, Java Spring boot and React.js.
 - 🧠 I'm constantly learning and exploring new technologies to improve my skills.
 - 👩‍💻 I’m currently a Junior Software Engineer at Asset Technology Group
 
@@ -27,6 +27,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
