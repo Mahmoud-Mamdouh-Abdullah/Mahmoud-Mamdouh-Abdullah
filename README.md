@@ -6,14 +6,14 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 ## 🚀 About Me
 
 - 🏢 I'm a Software Engineer interested in FullStack Web Development using Node.js, Java Spring boot and React.js.
 - 🧠 I'm constantly learning and exploring new technologies to improve my skills.
-- 👩‍💻 I’m currently a Junior Software Engineer at Asset Technology Group
+- 👩‍💻 I’m currently a Software Engineer at Link Development
 
 
 ## 🔗 Links
